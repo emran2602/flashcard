@@ -1,4 +1,18 @@
-# flashcard
+# Flashcard App
+
+## Lab 4
+
+
+### App Walk-though
+![]()
+
+
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
 
 ## Lab 3
 
